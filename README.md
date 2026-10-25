@@ -1,26 +1,34 @@
-![Aman Kumar Banner](profile.png)
-
+<!-- Banner Image -->
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="profile.png" alt="Aman Kumar - Generative AI Engineer" width="100%">
 </div>
 
-# Hi, I'm Aman Kumar 👋
-I am a **Generative AI & Agentic AI Engineer** passionate about building autonomous systems, multi-agent orchestration, and advanced retrieval-augmented generation (RAG) pipelines.
+<br/>
 
-### 🤖 What I Build
-*   **Autonomous Multi-Agent Workflows:** Creating self-correcting agent teams using LangGraph, CrewAI, and AutoGen.
-*   **LLM & RAG Pipelines:** Integrating complex data with LLMs using LlamaIndex and vector database storage (PostgreSQL/pgvector).
-*   **System Integration:** Building the underlying architectures and hosting them in containerized Docker environments.
+<!-- Dynamic Social and Portfolio Badges -->
+<div align="center">
+  <!-- Replace the href link with your actual portfolio URL -->
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-23272d?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
+  
+  <!-- Replace the href link with your full LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+  <!-- Replace the email address after mailto: with your actual email -->
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-### 🛠️ Tech Stack & Tools
-*   **Agent Frameworks:** LangChain, CrewAI, LangGraph, AutoGen
-*   **Backend & Data:** Python, Flask, PostgreSQL, SQLAlchemy
-*   **Deployment & Ops:** Docker, Git, GitHub Actions, AWS
+<br/>
 
-### 📊 Highlighted Repositories
+### 🧠 Initialize Agent: `aman_kumar.py`
+```python
+from typing import List
+from models import MultiAgentSystem, EnterpriseRAG
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Multi-Agent-System** | Coordination of autonomous agents using feedback loops. | Python, LangGraph |
-| **Enterprise-RAG** | Vector retrieval & chunking with optimized performance. | LlamaIndex, pgvector |
+class AIEngineer:
+    def __init__(self):
+        self.name = "Aman Kumar"
+        self.role = "System Engineer @ TCS AI WisdomNext"
+        self.core_focus = ["Agentic AI", "Generative AI", "Full-Stack System Architecture"]
+        
+    def execute_workflow(self) -> str:
+        return "Architecting self-correcting RAG pipelines and orchestrating autonomous agent networks."
