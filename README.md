@@ -16,10 +16,10 @@
 
 <br/>
 
-<h2 align="center">System Engineer | Agentic AI & Generative AI Architecture</h2>
+<h2 align="center">Agentic AI & Generative AI Engineer</h2>
 
 <p align="center">
-  Architecting production-grade autonomous agent workflows, scalable multi-agent orchestrations, and advanced Retrieval-Augmented Generation (RAG) pipelines for enterprise platforms like TCS AI WisdomNext. Focused on bridging the gap between state-of-the-art LLMs and robust full-stack applications.
+  Developing production-grade autonomous agent workflows, scalable multi-agent orchestrations, and advanced Retrieval-Augmented Generation (RAG) pipelines for enterprise platforms like TCS AI WisdomNext. Focused on bridging the gap between state-of-the-art LLMs and robust full-stack applications.
 </p>
 
 <br/>
